@@ -1,0 +1,19 @@
+{
+  "name": "jryanakl",
+  "version": "1.0.0",
+  "description": "front-end play",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jryanakl/frontend-code-snippets.git"
+  },
+  "author": "Joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jryanakl/frontend-code-snippets/issues"
+  },
+  "homepage": "https://github.com/jryanakl/frontend-code-snippets#readme"
+}
