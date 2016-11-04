@@ -1,0 +1,18 @@
+{
+  "name": "angular",
+  "version": "1.5.8",
+  "license": "MIT",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {},
+  "_release": "1.5.8",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.5.8",
+    "commit": "7e0e546eb6caedbb298c91a9f6bf7de7eeaa4ad2"
+  },
+  "_source": "git://fmbower.securepassage.com:6789/angular",
+  "_target": "^1.5.8",
+  "_originalSource": "angular",
+  "_direct": true
+}
