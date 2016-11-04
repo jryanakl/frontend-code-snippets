@@ -24,3 +24,9 @@ git branch -D branchTEMP
 
 # verify that the merge commit contains only contents of branchB
 git diff HEAD branchB
+
+# Resolve git (Add/Add) conflict.
+git merge --abort
+rm -rfv myconflictedfolder
+git commit -m'Resolve git Add/Add branch merge conflict by deleting conflicted folder and files in myconflictedfolder'
+git merge mybranch
