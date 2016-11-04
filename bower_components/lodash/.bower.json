@@ -1,0 +1,14 @@
+{
+  "name": "lodash",
+  "version": "4.14.1",
+  "_release": "4.14.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "4.14.1",
+    "commit": "816c4acc664ba89070d33237bbe5379cb6ced715"
+  },
+  "_source": "git://fmbower.securepassage.com:6789/lodash",
+  "_target": "^4.14.1",
+  "_originalSource": "lodash",
+  "_direct": true
+}
