@@ -30,3 +30,9 @@ git merge --abort
 rm -rfv myconflictedfolder
 git commit -m'Resolve git Add/Add branch merge conflict by deleting conflicted folder and files in myconflictedfolder'
 git merge mybranch
+
+
+Burrito 
+fillings: brown rice, chicken, fajita veggies, tomato salsa, tomatillio-red hot salsa, sour cream, cheese, lettuce
+
+Grant, Lil Wayne's old publicist is looking for work, http://www.spin.com/2016/11/lil-wayne-apparently-fired-his-publicists-over-his-controversial-abc-interview/

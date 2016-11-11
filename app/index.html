@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+
+<head>
+
+  <!-- title  -->
+  <title>Fronted Code Snippets</title>
+
+  <!-- Meta Tags -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+
+  <base href="/front-end-dev/" />
+
+  <!-- Favicons -->
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+  <!-- Vendor Styles -->
+  <!-- build:css styles/vendor.css -->
+  <!-- bower:css -->
+  <!-- endbower -->
+  <!-- endbuild -->
+
+  <!-- App Styles -->
+  <!-- build:css styles/app.css -->
+  <link rel="stylesheet" href="styles/app.css">
+  <!-- endbuild -->
+</head>
+
+<body role="document">
+
+  <!-- App View -->
+  <!-- Remove if fmModule -->
+  <div ui-view="root"></div>
+
+  <!-- fmModule Content -->
+  <!-- /fmModule Content -->
+
+  <!-- Toast -->
+  <toaster-container></toaster-container>
+
+  <!-- Vendor Scripts -->
+  <!-- build:js scripts/vendor.js -->
+    <!-- bower:js -->
+    <!-- endbower -->
+  <!-- endbuild -->
+
+  <!-- App Scripts -->
+  <!-- build:js scripts/app.js -->
+    <!-- inject:js -->
+    <!-- endinject -->
+
+    <!-- Templates -->
+    <script src="scripts/templates.js"></script>
+  <!-- endbuild -->
+
+</body>
+</html>

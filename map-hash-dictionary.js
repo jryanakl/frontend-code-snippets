@@ -2,7 +2,6 @@
 var mockObj = [];
 
 
-
 function mapConnections(mockObj) {
     var deferred = $q.defer();
 
